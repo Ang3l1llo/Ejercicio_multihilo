@@ -1,0 +1,14 @@
+C:\Users\Pc\Documents\DAM II\PSP-Programación de servicios y procesos\PIEDRA-PAPEL-TIJERA\PIEDRA-PAPEL-TIJERA\bin\Debug\net8.0\PIEDRA-PAPEL-TIJERA.exe
+C:\Users\Pc\Documents\DAM II\PSP-Programación de servicios y procesos\PIEDRA-PAPEL-TIJERA\PIEDRA-PAPEL-TIJERA\bin\Debug\net8.0\PIEDRA-PAPEL-TIJERA.deps.json
+C:\Users\Pc\Documents\DAM II\PSP-Programación de servicios y procesos\PIEDRA-PAPEL-TIJERA\PIEDRA-PAPEL-TIJERA\bin\Debug\net8.0\PIEDRA-PAPEL-TIJERA.runtimeconfig.json
+C:\Users\Pc\Documents\DAM II\PSP-Programación de servicios y procesos\PIEDRA-PAPEL-TIJERA\PIEDRA-PAPEL-TIJERA\bin\Debug\net8.0\PIEDRA-PAPEL-TIJERA.dll
+C:\Users\Pc\Documents\DAM II\PSP-Programación de servicios y procesos\PIEDRA-PAPEL-TIJERA\PIEDRA-PAPEL-TIJERA\bin\Debug\net8.0\PIEDRA-PAPEL-TIJERA.pdb
+C:\Users\Pc\Documents\DAM II\PSP-Programación de servicios y procesos\PIEDRA-PAPEL-TIJERA\PIEDRA-PAPEL-TIJERA\obj\Debug\net8.0\PIEDRA-PAPEL-TIJERA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Documents\DAM II\PSP-Programación de servicios y procesos\PIEDRA-PAPEL-TIJERA\PIEDRA-PAPEL-TIJERA\obj\Debug\net8.0\PIEDRA-PAPEL-TIJERA.AssemblyInfoInputs.cache
+C:\Users\Pc\Documents\DAM II\PSP-Programación de servicios y procesos\PIEDRA-PAPEL-TIJERA\PIEDRA-PAPEL-TIJERA\obj\Debug\net8.0\PIEDRA-PAPEL-TIJERA.AssemblyInfo.cs
+C:\Users\Pc\Documents\DAM II\PSP-Programación de servicios y procesos\PIEDRA-PAPEL-TIJERA\PIEDRA-PAPEL-TIJERA\obj\Debug\net8.0\PIEDRA-PAPEL-TIJERA.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Documents\DAM II\PSP-Programación de servicios y procesos\PIEDRA-PAPEL-TIJERA\PIEDRA-PAPEL-TIJERA\obj\Debug\net8.0\PIEDRA-PAPEL-TIJERA.dll
+C:\Users\Pc\Documents\DAM II\PSP-Programación de servicios y procesos\PIEDRA-PAPEL-TIJERA\PIEDRA-PAPEL-TIJERA\obj\Debug\net8.0\refint\PIEDRA-PAPEL-TIJERA.dll
+C:\Users\Pc\Documents\DAM II\PSP-Programación de servicios y procesos\PIEDRA-PAPEL-TIJERA\PIEDRA-PAPEL-TIJERA\obj\Debug\net8.0\PIEDRA-PAPEL-TIJERA.pdb
+C:\Users\Pc\Documents\DAM II\PSP-Programación de servicios y procesos\PIEDRA-PAPEL-TIJERA\PIEDRA-PAPEL-TIJERA\obj\Debug\net8.0\PIEDRA-PAPEL-TIJERA.genruntimeconfig.cache
+C:\Users\Pc\Documents\DAM II\PSP-Programación de servicios y procesos\PIEDRA-PAPEL-TIJERA\PIEDRA-PAPEL-TIJERA\obj\Debug\net8.0\ref\PIEDRA-PAPEL-TIJERA.dll
